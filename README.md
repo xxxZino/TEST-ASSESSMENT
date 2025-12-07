@@ -16,7 +16,7 @@
 
 ### 1. Clone the repository
 ```bash
-https://github.com/xxxZino/TEST-ASSESSMENT.git
+git clone https://github.com/xxxZino/TEST-ASSESSMENT.git
 cd <TEST-ASSESSMENT>
 ```
 
