@@ -32,9 +32,4 @@ npm start
 Runs at  http://localhost:3000
 
 ## Screenshots
-
----
-
-## 📮 Contact
-GitHub: https://github.com/<your-username>  
-Email: your-email@example.com
+![Posts List](screenshots/UI.png)
